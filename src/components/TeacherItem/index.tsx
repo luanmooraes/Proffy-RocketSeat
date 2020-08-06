@@ -16,7 +16,7 @@ function TeacherItem(){
 </header>
 
 <p>
-    Lsadsadasddasdorem ipsum dolor sit amet consectetur adipisicing elit. In eius, aut rerum voluptatum ducimus inventore tempora nobis iste minus doloribus delectus est aliquid, beatae natus rem aliquam iusto blanditiis dolorem!
+    Lsadsadsadasdasddasdorem ipsum dolor sit amet consectetur adipisicing elit. In eius, aut rerum voluptatum ducimus inventore tempora nobis iste minus doloribus delectus est aliquid, beatae natus rem aliquam iusto blanditiis dolorem!
     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor saepe qui, veniam est perspiciatis quo. Optio inventore, iste nemo modi fugiat voluptatem dolore reiciendis fugit magnam eos iusto illo placeat?
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem enim velit dolore consectetur, tempore possimus, cum ullam provident sapiente officia eum perferendis nesciunt aliquam cumque. Vero esse hic porro. Saepe.
     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic voluptate atque est suscipit quos cum deleniti excepturi consequuntur ratione? Ipsum fugit eveniet quasi non perspiciatis blanditiis dignissimos ea delectus fuga!
